@@ -1,0 +1,2 @@
+Android Studio
+Pixel 3a (API 34, Android 8)
